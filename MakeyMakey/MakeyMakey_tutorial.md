@@ -1,7 +1,5 @@
 # [Makey Makey](http://www.makeymakey.com/)
 
-
-
 ![bananaPiano](../images/bananaPiano.jpg)
 
 Surgió de un proyecto de KickStarted
