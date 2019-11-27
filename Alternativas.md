@@ -17,7 +17,7 @@ Alternativa open: [Escornabot](./escornabot.md)
 
 ## [Makey-Makey](./MakeyMakey.md)
 
-![bananaPiano](./images/bananaPiano.jpg)
+![bananaPiano](./imagenes/bananaPiano.jpg)
 
 ## [Meccanoid](https://www.juguetronica.com/meccanoid-g15ks)
 
@@ -82,15 +82,15 @@ En ese punto siempre aparece la disyuntiva de si usar un kit o los componentes
 
 Por un lado un kit es sencillo de usar pero costoso
 
-![kit](./images/Sensores.png)
+![kit](./imagenes/Sensores.png)
 
 Por otro lado los componentes son baratos pero difíciles de usar
 
-![componentes](./images/Arduino_Breadboard_LCD_Trial_One.jpg)
+![componentes](./imagenes/Arduino_Breadboard_LCD_Trial_One.jpg)
 
 Una posible solución consiste en  involucrar a distintos niveles con distintas capacidades y dándoles tareas con distinto nivel de dificultad
 
-![KitElectrónica.jpg](./images/KitElectrónica.jpg)
+![KitElectrónica.jpg](./imagenes/KitElectrónica.jpg)
 
 Al construir el kit estamos aprendiendo electrónica, soldadura, impresión 3D, a leer esquemas,.... y estamos fabricando los componentes que pueden usar los más pequeños
 
