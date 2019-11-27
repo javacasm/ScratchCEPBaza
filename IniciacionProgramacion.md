@@ -1,4 +1,4 @@
-# Iniciación a la programación
+# Actividad - Iniciación a la programación
 
 ## Duración: 1 hora
 
