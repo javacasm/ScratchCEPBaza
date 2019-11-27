@@ -15,7 +15,7 @@ Podemos usarlo desde [acceso web](https://scratch.mit.edu/projects/editor) y com
 
 La versión 2.0 usa tecnología propietaria de Adobe (Air), por lo podría no funcionar en todos los dispositivos
 
-La versón 3.0 es HTML puro
+La [versón 3.0](./Scratch3.0.md) es HTML puro
 
 ## Extensiones
 
