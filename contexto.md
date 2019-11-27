@@ -1,4 +1,4 @@
-# Programación en la educación
+# Programación en educación
 
 ## La moda de la robótica y la programación
 
