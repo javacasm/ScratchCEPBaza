@@ -1,6 +1,6 @@
-# Iniciación a la programación con Scratch ()
+# Robótica en educación Primaria ([201814GE014](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/201814GE014/))
 
-## Curso del CEP de Baza en 2019
+## Curso del CEP de Baza
 
 
 ## Diciembre 2019 / Enero 2020
@@ -12,9 +12,9 @@
 
 ## https://github.com/javacasm/ScratchCEPBaza
 
-# Iniciación a la programación con Scratch
+# Robótica en educación Primaria: Scratch + Makey-Makey
 
-Curso con 9 horas presenciales
+Curso con 9 horas presenciales + 11 de trabajo no presencial
 
 ## Justificación
 
@@ -44,7 +44,7 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 
 * [¿Por qué programar?](./contexto.md)
 * Presentación de [herramientas de programación visual para los más pequeños: Code.org](./Bloques.md)
-* Introducción a Scratch (y [alternativas como Snap](./snap.md))
+* Introducción a Scratch (y alternativas como [Snap](./snap.md) o [mBlock](./mBlock.md))
 * [Programando con Scratch](./Scratch.md):
   * [Dibujando con Scratch](./Scratch.md#vamos-a-dibujar)
   * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
