@@ -31,6 +31,13 @@
 
 ![imag](https://cdn.shopify.com/s/files/1/0162/8612/files/1484-StepFive_large.png?v=1558551537)
 
+[Montaje complejo](https://twitter.com/mandeepR41/status/1191764116131598336)
+
+![](../imagenes/MontajePuerta0.png)
+![](../imagenes/montajePuerta1.png)
+![](../imagenes/montajePuerta2.png)
+![](../imagenes/montajePuerta3.png)
+
 ## Ideas
 
 * ScapeRoom
