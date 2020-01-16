@@ -10,7 +10,7 @@
 
 [![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
-## https://github.com/javacasm/ScratchCEPBaza
+## http://bit.ly/SBaza
 
 # Robótica en educación Primaria: Scratch + Makey-Makey
 
@@ -50,7 +50,7 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
   * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
   * [Sonidos y animaciones](./Scratch.md#sonido)
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
-* [Ejemplos de proyectos con Makey-makey](./MakeyMakey_tutorial.md)
+* [Ejemplos de proyectos con Makey-makey](./MakeyMakey/README.md)
 * ¿[Qué y dónde comprar](./Comprar.md)?
 
 ## [Recursos](./recursos.md)
