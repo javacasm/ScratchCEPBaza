@@ -4,4 +4,6 @@
 
 ## [Montajes sencillos con Makey-Makey](./MakeyMakey_Montajes.md)
 
+## [Ejemplo sencillos](./Proyectos.md)
+
 ## [Recursos para Makey-Makey](./MakeyMakeyRecursos.md)
